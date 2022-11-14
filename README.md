@@ -18,7 +18,7 @@ Funcionalidades:
 
 ### 📚Requisitos 
 
-List all things your project needs to work for eg:
+O que o projeto precisa
 
 -   Python 3
 
@@ -34,7 +34,11 @@ A seguir os passos para instalação
     pip3 install requirements.txt
     ```
 
-3. Rodar o projeto local
+3. Definir as varáveis de:
+    - export GROUP_ID="group"
+    - export PROJECT_NAME="project"
+    - export GITLAB_URL="https://my-gitlab.com"
+    - export GITLAB_TOKEN="token"
 
 
 ## 📈Versões futuras
